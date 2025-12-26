@@ -1,0 +1,9 @@
+# version information
+python 3.8
+pandas 1.4.1
+numpy 1.19.5
+sklearn 1.0.2
+matplotlib 3.5.0
+torch 2.2.1
+seaborn 0.1.2
+cuda 11.8.0
